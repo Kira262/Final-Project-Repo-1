@@ -11,7 +11,7 @@ body:before
 	position: fixed;
 	width: 100%;
 	height: 100%;
-	background-image: url(https://github.com/Kira262/project/blob/main/blue-bg.jpg);
+	background-image: url("https://raw.githubusercontent.com/Kira262/project/main/blue-bg.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
