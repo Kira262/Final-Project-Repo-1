@@ -11,9 +11,8 @@ body:before
 	position: fixed;
 	width: 100%;
 	height: 100%;
-	background-image: url(file:///E:/Study%20shit/%23Final/Actual%20Project/blue-bg-1.jpg);
+	background: url("https://raw.githubusercontent.com/Kira262/Final-Project-Repo-1/main/Images/blue-bg-1.jpg") no-repeat;
 	background-position: center center;
-	background-repeat: no-repeat;
 	background-attachment: fixed;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -46,7 +45,6 @@ body:before
 {
 	margin: 0;
 	padding: 0 0 20px;
-	
 	text-align: center;
 	text-transform: uppercase;
 }

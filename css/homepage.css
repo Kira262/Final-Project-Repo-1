@@ -85,7 +85,7 @@ body{
   }
 .image
 {
-    background: url("https://raw.githubusercontent.com/Kira262/Final-Project-Repo-1/main/login-bg.jpg") no-repeat;
+    background: url("https://raw.githubusercontent.com/Kira262/Final-Project-Repo-1/main/Images/login-bg.jpg") no-repeat;
     filter: blur(0.8);
     background-size: cover;
     justify-content: center;
