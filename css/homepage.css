@@ -62,7 +62,7 @@ body
   display:flex;
   position:absolute;
   top:160%;
-  left:50%;
+  left:60%;
 }
 @keyframes rotate 
 {
